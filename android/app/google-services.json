@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "355150684428",
+    "project_id": "dsproject-5c2b3",
+    "storage_bucket": "dsproject-5c2b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355150684428:android:b2d19162d67248edc76929",
+        "android_client_info": {
+          "package_name": "com.sparta.datastore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355150684428-nt83qnbnse226bp91ess256le8ea3nhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4vMXNgN6G8jGJ_jlJWdQrjEsUhtFMXc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355150684428-nt83qnbnse226bp91ess256le8ea3nhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
